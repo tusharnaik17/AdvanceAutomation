@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+    <groups>
+      <group name="security">
+        <method signature="ParallelMethodTest.testMethodsOne()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="testMethodsOne" class="com.testng.practice.ParallelMethodTest"/>
+      </group> <!-- security -->
+    </groups>
+    <test name="Default test" duration-ms="32" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+      <class name="com.testng.practice.ParallelMethodTest">
+        <test-method status="PASS" signature="beforTest()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="beforTest" is-config="true" duration-ms="9" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="setUpSecurity()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="setUpSecurity" is-config="true" duration-ms="0" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSecurity -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testMethodsOne()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="testMethodsOne" duration-ms="5" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodsOne -->
+        <test-method status="PASS" signature="tearDownSecurity()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="tearDownSecurity" is-config="true" duration-ms="1" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSecurity -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testMethodsTwo()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="testMethodsTwo" duration-ms="1" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodsTwo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.testng.practice.ParallelMethodTest@2b98378d]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-05-08T08:22:09Z" finished-at="2019-05-08T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.testng.practice.ParallelMethodTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
